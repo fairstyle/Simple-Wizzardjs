@@ -1,0 +1,30 @@
+{
+  "name": "simple-wizzardjs",
+  "version": "1.0.0",
+  "description": "a simple vanilla js library",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairstyle/Simple-Wizzardjs.git"
+  },
+  "keywords": [
+    "wizzard",
+    "vanilla",
+    "js",
+    "vanillajs",
+    "simple"
+  ],
+  "author": "Andrw <kuvickdabest@gmail.com> (https://www.liamthomas.cl/andrw/about-me-es)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fairstyle/Simple-Wizzardjs/issues",
+    "email": "kuvickdabest@gmail.com"
+  },
+  "homepage": "https://github.com/fairstyle/Simple-Wizzardjs#readme"
+}
