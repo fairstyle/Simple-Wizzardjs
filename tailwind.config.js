@@ -2,10 +2,8 @@
 module.exports = {
   content: [
     './assets/js/*.js',
-    './assets/js/componentes/*.js',
-    './assets/js/utils/*.js',
   ],
-  prefix: 'tw-',
+  prefix: 'wizzardjs-',
   corePlugins: {
     preflight: false,
   },
